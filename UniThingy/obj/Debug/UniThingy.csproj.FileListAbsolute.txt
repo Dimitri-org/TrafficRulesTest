@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\UniThingy\UniThingy\bin\Debug\UniThingy.exe.config
+C:\Users\User\source\repos\UniThingy\UniThingy\bin\Debug\UniThingy.exe
+C:\Users\User\source\repos\UniThingy\UniThingy\bin\Debug\UniThingy.pdb
+C:\Users\User\source\repos\UniThingy\UniThingy\bin\Debug\MaterialSkin.dll
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.Properties.Resources.resources
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.csproj.CopyComplete
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.exe
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.pdb
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.Form1.resources
+C:\Users\User\source\repos\UniThingy\UniThingy\obj\Debug\UniThingy.EnterForm.resources
+C:\Users\User\source\repos\UniThingy\UniThingy\bin\Debug\UniThingyDatabase.mdf
+C:\Users\User\source\repos\UniThingy\UniThingy\bin\Debug\UniThingyDatabase_log.ldf
